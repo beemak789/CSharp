@@ -1,0 +1,15 @@
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/bin/Debug/net7.0/Calculator
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/brandymak/Documents/C# Practice/TodoList/Calculator/obj/Debug/net7.0/ref/Calculator.dll
